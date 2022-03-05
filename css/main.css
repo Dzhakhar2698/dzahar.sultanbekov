@@ -1,0 +1,34 @@
+h1{
+	color: red;
+}
+
+
+
+h2{ color: white;
+	background: green;
+}
+
+.zagolovok{
+
+	border: 50px solid green;
+}
+
+.new span{
+	color: red;
+}
+
+
+.perenos{
+	color: white;
+	
+  width: 100px;
+  background: blue;
+  height: 75px;
+  margin-bottom: 100px;
+}
+
+.old{
+	
+ margin-left: 100px;
+}
+
